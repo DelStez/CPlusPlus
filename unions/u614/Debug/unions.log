@@ -1,0 +1,6 @@
+﻿  MainForm.cpp
+C:\Users\Kanda\source\repos\unions\unions\MainForm.cpp(15): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\Kanda\source\repos\unions\unions\MainForm.cpp(116): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Kanda\source\repos\unions\unions\MainForm.cpp(138): warning C4018: >: несоответствие типов со знаком и без знака
+  AddForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  unions.vcxproj -> C:\Users\Kanda\source\repos\unions\Debug\unions.exe
