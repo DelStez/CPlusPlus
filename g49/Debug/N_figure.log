@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Kanda\source\repos\N_figure\N_figure\MyForm.h(351): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kanda\source\repos\N_figure\N_figure\MyForm.h(348): warning C4101: angle: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  N_figure.vcxproj -> C:\Users\Kanda\source\repos\N_figure\Debug\Nfigure.exe
